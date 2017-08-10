@@ -1,0 +1,25 @@
+{
+    "name": "ICPDoNotBackup",
+    "version": "0.0.1",
+    "description": "The only goal of ICPDoNotBackup plugin is to avoid your iOS / Cordova app to be rejected by App Store Validation Team because of Google Analytics SDK for iOS.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MoveGB/ICPDoNotBackup.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "bugs": {
+        "url": "https://github.com/MoveGB/ICPDoNotBackup/issues"
+    },
+    "homepage": "https://github.com/MoveGB/ICPDoNotBackup#readme",
+    "cordova": {
+        "id": "ICPDoNotBackup",
+        "platforms": [
+            "ios"
+        ]
+    }
+}
